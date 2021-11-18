@@ -1,0 +1,8 @@
+.wish {
+  margin-top: 30px;
+  .card {
+    @media (max-width: 576px) {
+      margin-bottom: 10px;
+    }
+  }
+}
